@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.local
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+test-results/
+playwright-report/
+.local-review/
+coverage/
+tmp/
+output/
+*.pdf
+!public/lebenslauf.pdf
